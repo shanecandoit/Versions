@@ -12,7 +12,7 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://1.eu.dl.wireshark.org/win64/all-versions/Wireshark-win64-3.6.24.exe#/dl.7z",
+            "url": "https://www.wireshark.org/download/win64/all-versions/Wireshark-win64-3.6.24.exe",
             "hash": "cd3348920804d8afda6933b2eee47819b55ad2bd657232a49d9409739ad52c52"
         },
         "32bit": {
